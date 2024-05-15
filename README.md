@@ -17,3 +17,8 @@ Detection of forged notes using pytorch and scikit-learn libraries
 	`pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu`
 
 * Or, if cannot be bothered to use poetry, then use `requirements.txt` to install all the libraries.
+
+
+### Data
+* https://archive.ics.uci.edu/dataset/267/banknote+authentication
+* This link also has references to papers citing this dataset.
